@@ -1,7 +1,12 @@
 # DNN
 
 - ✅ w1 - pytorch ds and operations: skipped
-- ✅ w2 - simple regression: skipped
+- ☑️ w2 - simple regression
+  - ✅️ lr gd the hard way
+  - ☑️ stochastic gd & data loader
+  - ☑️ mini-batch gd
+  - ☑️ optimisation
+  - ☑️ training, validating, test-split
 - ☑️ w3 - multiple linear regression
   - ✅ mlr with single input
   - ✅ mlr with multiple inputs
@@ -10,8 +15,8 @@
   - ☑️ lr cross-entropy loss
 - ☑️ w4 - softmax regression, shallow NN
 - ☑️ w5 - DEEP NETWORKS
-  - deep NN
-  - dropout
-  - NN initialization weights
-  - gradiant descent and momentum
-  - batch batch normalization
+  - ☑️ deep NN
+  - ☑️ dropout
+  - ☑️ NN initialization weights
+  - ☑️ gradiant descent and momentum
+  - ☑️ batch batch normalization
