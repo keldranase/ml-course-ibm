@@ -1,18 +1,10 @@
-Solutions to exercises of this course:
-https://www.coursera.org/learn/machine-learning-with-python
+# Notes on [set of courses](https://www.coursera.org/professional-certificates/ai-engineer#courses) by IBM
 
+### Repo structure:
+- Each course placed in separate folder
+- Each course consists of several sub-parts, "weeks"
+- Inside each week, notes on topics are placed in jupyter .ipynb files, with attachments in corresponding directories
 
-
-
-#### Week 1
-Introduction
-
-#### Week 2
-1|2|3|4|5|6|7|8|9|10
--|-|-|-|-|-|-|-|-|-
-✅|✅|✅|✅|✅|✅|✅|✅|✅|✅
-
-#### Week 3
-1|2|3|4|5|6|7|8|9|10|11|12|13
--|-|-|-|-|-|-|-|-|-|-|-|-
-✅|✅|✅|✅|☑️|☑️|☑️|☑️|☑️|☑️|☑️|☑️|☑️|☑️
+### Notice
+- During this set of courses I was aiming for effeciency, rather than completionsm, so some parts were skipped
+- Some topics, I wanted to dive deeper into were extended though
