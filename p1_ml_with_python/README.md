@@ -1,7 +1,7 @@
 # Topic by week:
 
-### 📌 week_2 - Regression
-Linear, non-linear, multiple
-### 📌 week_3 - Classification
-### 📌 week_4 - Clustering
-### 📌 week_5 - Building recommender system
+### week 1 - Intro, (skipped)
+### week 2 - Regression
+### week 3 - Classification
+### week 4 - Clustering
+### week 5 - Recommender system (skipped)
